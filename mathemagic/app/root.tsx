@@ -16,7 +16,7 @@ import { ServerStyleContext, ClientStyleContext } from "./context";
 
 export const meta: V2_MetaFunction = () => {
   return [
-    { title: "Mathemagic" },
+    { title: "Pitaya Digital" },
     { name: "description", content: "Welcome to Remix!" },
   ];
 };
